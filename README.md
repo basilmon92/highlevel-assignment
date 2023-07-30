@@ -1,7 +1,11 @@
-# highlevel UI developer test project
+# Highlevel UI developer test project
 
 # Live Demo
-TBA
+[Deployed on Netlify](https://main--playful-cendol-dcbde1.netlify.app/)
+
+# Screenshot
+<img width="1323" alt="Screenshot 2023-07-31 at 5 10 45 AM" src="https://github.com/basilmon92/highlevel-assignment/assets/3906737/87c86e7a-8676-4c88-975f-5e91c1355eb9">
+
 
 ## Project setup
 ```
